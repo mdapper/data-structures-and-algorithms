@@ -1,4 +1,4 @@
-import { set, get } from './';
+import { set, get } from './DynamicArray';
 
 describe('DynamicArray', () => {
   it('get and set', () => {
